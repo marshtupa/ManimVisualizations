@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+media/
+.manim/
+
+.DS_Store
+.idea/
